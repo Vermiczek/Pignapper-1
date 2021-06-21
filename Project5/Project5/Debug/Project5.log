@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\vrmk\desktop\project5\project5\game.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\vrmk\desktop\project5\project5\game.cpp(219): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\vrmk\desktop\project5\project5\game.cpp(272): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project5.vcxproj -> C:\Users\vrmk\Desktop\Project5\Debug\Project5.exe
